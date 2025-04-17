@@ -19,7 +19,7 @@ License: MIT
 * Works with [Vail](https://vail.woozle.org/)
 * Works with [VBand](https://hamradio.solutions/vband/), but the window has to remain focused
 * Works with [Morse Invaders](https://www.morseinvaders.com/)
-* Works with [my CW Training Tools I am building]([https://www.ke9bos.com)
+* Works with [my CW Training Tools I am building]([https://www.ke9bos.com) at ke9bos.com
 * Optional sidetone generator, which helps with latency
 * Implements all nine keyer modes from Vail, in the adapter, so you lunatics can try to key at 50WPM with no latency issues
 * Plays received signals in the adapter, so you can turn off your computer speaker
